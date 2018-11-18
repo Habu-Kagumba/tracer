@@ -1,3 +1,3 @@
 # Tracer package
 
-Golang pakcage to enable easy tracing in go applications
+Golang package to enable easy tracing in go applications
